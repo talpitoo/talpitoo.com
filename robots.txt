@@ -1,3 +1,4 @@
 User-agent: *
 Disallow: /novalite/
+Disallow: /novalite/xmas/
 Disallow: /expect-agency/2014/
